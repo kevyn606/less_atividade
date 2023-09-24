@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "less": "^4.2.0"
+  }
+}
+"scripts": {
+  "compile-less": "lessc path/do/seu/arquivo.less path/do/seu/arquivo.css"
+}
